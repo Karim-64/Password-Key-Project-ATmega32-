@@ -1,0 +1,9 @@
+MCAL/EXT_INTERRUPT.d MCAL/EXT_INTERRUPT.o: ../MCAL/EXT_INTERRUPT.c \
+ ../MCAL/EXT_INTERRUPT.h ../MCAL/../LIB/BitMath.h \
+ ../MCAL/../LIB/STD_types.h
+
+../MCAL/EXT_INTERRUPT.h:
+
+../MCAL/../LIB/BitMath.h:
+
+../MCAL/../LIB/STD_types.h:
