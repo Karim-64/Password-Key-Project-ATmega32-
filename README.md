@@ -19,7 +19,6 @@ This is an embedded “password key” security system built around an ATmega32 
 5. [Build & Flash Instructions](#build--flash-instructions)  
 6. [Simulation](#simulation)  
 7. [Authors](#authors)  
-8. [License](#license)  
 
 ---
 
