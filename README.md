@@ -189,9 +189,3 @@ High‐level application code tying everything together:
 - Karim Mohamed  
 - Abanoub Osama  
 
----
-
-## License
-
-This project is released under the [MIT License](LICENSE) – feel free to reuse and modify.
-
